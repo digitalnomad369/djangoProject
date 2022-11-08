@@ -1,0 +1,15 @@
+body {
+    background-color: rgb(91, 56, 229);
+    color: whitesmoke;
+    font-family: 'Rochester';
+}
+
+
+h1, li, h3, h6 {
+    display: block;
+    margin-top: 5em;
+    margin-bottom: 2em;
+    margin-left: 200px;
+    margin-right: 200px;
+    text-align: center;
+}
